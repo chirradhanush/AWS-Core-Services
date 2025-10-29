@@ -1,4 +1,4 @@
-# AWS Core Services Hands-On Lab: E-Commerce Sales Data Analytics
+# AWS Core Services Hands-On 
 
 ## 🎯 Objective
 This project demonstrates the implementation of a serverless data analytics pipeline using AWS core services (S3, Glue, CloudWatch, and Athena) to analyze e-commerce sales data.
