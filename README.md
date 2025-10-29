@@ -120,10 +120,27 @@ CSV Data → S3 (Raw Bucket) → Glue Crawler → Data Catalog → Athena → S3
 
 
 
-### **Screenshots**
-![WhatsApp Image 2025-10-28 at 21 42 20_07af65ef](https://github.com/user-attachments/assets/3506faf8-03c3-490e-a2f7-5da881d18faf)
-![WhatsApp Image 2025-10-28 at 22 20 41_00c8ff86](https://github.com/user-attachments/assets/34132cc7-a18c-4cf1-8cad-505383c12156)
-![WhatsApp Image 2025-10-28 at 22 21 22_b2e43579](https://github.com/user-attachments/assets/f51a4e72-26ad-43e2-ba1f-978ed840ae33)
-![WhatsApp Image 2025-10-28 at 22 23 04_e6e1f8f9](https://github.com/user-attachments/assets/96ee34a4-b0e0-49cb-a413-58f9a567db04)
+### 🖼️Output Screenshots
+
+![Cloud Watch](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Cloud%20Watch.png?raw=true)
+
+![S3](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/S3.png?raw=true)
+
+![Processed](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Processed.png?raw=true)
+
+![RAW](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/RAW.png?raw=true)
+
+![IAM](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/IAM.png?raw=true)
+
+![Output 1](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Output-1.png?raw=true)
+
+![Output 2](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Output-2.png?raw=true)
+
+![Output 3](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Output-3.png?raw=true)
+
+![Output 4](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Output-4.png?raw=true)
+
+![Output 5](https://github.com/chirradhanush/AWS-Core-Services/blob/main/Output%20Screenshots/Output-5.png?raw=true)
+
 
 
